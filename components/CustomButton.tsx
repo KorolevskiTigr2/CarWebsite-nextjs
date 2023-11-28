@@ -19,4 +19,4 @@ const CustomButton = ( {title,containerStyles,handleClick }: CustomButtonProps )
   )
 }
 
-export default CustomButton
+export default CustomButton;
